@@ -1,3 +1,5 @@
-# shiny-git-testA line I wrote on my local computer
+# shiny-git-test
+
+A line I wrote on my local computer
 
 This is a line from RStudio
